@@ -1,0 +1,14 @@
+{
+    "root": "../../1_fup/arcade",
+    "base": "base",
+    "thumbs": ".indexer/thumbs",
+    "posts": "_posts",
+    "remote": "https://raw.githubusercontent.com/qxcodefup/arcade/master/",
+    "symbols": {
+        "tag": "#",
+        "category": "©",
+        "date": "\u00f0",
+        "author": "\u00e6",
+        "subtitle": "\u00df"
+    }
+}
