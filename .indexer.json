@@ -1,0 +1,24 @@
+{
+  "base": "../../1_fup/arcade/base",
+  "execute": [
+    {
+      "action": "load_folder"
+    },
+    {
+      "action": "board",
+      "file": "board.md"
+    },
+    {
+      "action": "thumbs",
+      "width": 320,
+      "height": 180
+    },
+    {
+      "action": "posts",
+      "dir": "_posts",
+      "base_raw_remote": "https://raw.githubusercontent.com/qxcodefup/arcade/master/base",
+      "default_date": "1984-04-25",
+      "categories_dir": "category"
+    }
+  ]
+}
