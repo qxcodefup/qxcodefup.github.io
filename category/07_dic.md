@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Structs
-slug: Structs
+slug: 07_dic
 description: 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Ponteiros
-slug: Ponteiros
+slug: 08_ptr
 description: 
 ---

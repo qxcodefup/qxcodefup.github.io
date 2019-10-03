@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Vetores
-slug: Vetores
+slug: 04_vet
 description: 
 ---

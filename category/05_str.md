@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Strings
-slug: Strings
+slug: 05_str
 description: 
 ---

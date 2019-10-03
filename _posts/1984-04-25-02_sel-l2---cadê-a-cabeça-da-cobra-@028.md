@@ -3,7 +3,7 @@ layout: post
 title: L2 - Cadê a cabeça da cobra
 image: https://raw.githubusercontent.com/qxcodefup/arcade/master/base/028/__capa.jpg
 optimized_image: https://raw.githubusercontent.com/qxcodefup/arcade/master/base/.thumb/028/Readme.jpg
-category: Seleção
+category: 02_sel
 tags:
   - noticia
 ---

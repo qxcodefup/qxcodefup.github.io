@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Recursão
-slug: Recursão
+slug: 07_rec
 description: 
 ---

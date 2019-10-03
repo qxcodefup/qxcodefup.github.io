@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Matrizes
-slug: Matrizes
+slug: 06_mat
 description: 
 ---
