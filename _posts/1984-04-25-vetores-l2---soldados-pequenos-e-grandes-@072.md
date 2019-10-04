@@ -75,3 +75,7 @@ P G G G
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/072/t.tio)
+

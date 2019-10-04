@@ -60,3 +60,7 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/086/t.tio)
+

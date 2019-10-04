@@ -67,3 +67,7 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/061/t.tio)
+

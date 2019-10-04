@@ -58,3 +58,7 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/136/t.tio)
+

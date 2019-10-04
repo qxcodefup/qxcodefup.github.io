@@ -47,3 +47,7 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/090/t.tio)
+

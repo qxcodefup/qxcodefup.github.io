@@ -73,3 +73,7 @@ b = 3.4334344
 print("a=%.2f e b=%.3f" %(a, b)) //a=4.32 e b=3.433
 ```
 ---
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/024/t.tio)
+

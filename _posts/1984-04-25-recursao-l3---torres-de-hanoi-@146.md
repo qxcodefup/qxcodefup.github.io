@@ -74,3 +74,7 @@ A -> C
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/146/t.tio)
+

@@ -42,3 +42,7 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/149/t.tio)
+

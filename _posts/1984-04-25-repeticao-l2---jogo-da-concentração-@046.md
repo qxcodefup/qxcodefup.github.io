@@ -61,3 +61,7 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/046/t.tio)
+

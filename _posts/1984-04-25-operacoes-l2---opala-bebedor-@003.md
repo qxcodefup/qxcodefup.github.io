@@ -53,3 +53,7 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/003/t.tio)
+

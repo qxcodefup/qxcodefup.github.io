@@ -69,3 +69,7 @@ printf("%.2f", total);
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/021/t.tio)
+

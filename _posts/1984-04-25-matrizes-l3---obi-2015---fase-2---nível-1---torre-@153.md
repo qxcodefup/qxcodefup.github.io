@@ -69,3 +69,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/153/t.tio)
+

@@ -85,3 +85,7 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/135/t.tio)
+

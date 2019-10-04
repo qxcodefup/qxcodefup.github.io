@@ -64,3 +64,7 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/064/t.tio)
+

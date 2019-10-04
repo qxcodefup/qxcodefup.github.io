@@ -56,3 +56,7 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/000/t.tio)
+

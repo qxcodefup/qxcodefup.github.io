@@ -63,3 +63,7 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/065/t.tio)
+

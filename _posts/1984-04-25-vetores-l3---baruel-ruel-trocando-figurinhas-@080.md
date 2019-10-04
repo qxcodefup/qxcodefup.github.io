@@ -72,3 +72,7 @@ N
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/080/t.tio)
+

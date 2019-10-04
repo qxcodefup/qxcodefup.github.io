@@ -64,3 +64,7 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/068/t.tio)
+

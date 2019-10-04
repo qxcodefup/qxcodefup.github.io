@@ -62,3 +62,7 @@ Saída
 3
 <<<<<<<<
 ```
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/133/t.tio)
+

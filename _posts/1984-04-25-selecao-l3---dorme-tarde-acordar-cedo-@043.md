@@ -83,3 +83,7 @@ h1 = int(h1) h2 = int(h2)
 ```
 etc.
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/043/t.tio)
+

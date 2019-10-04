@@ -71,3 +71,7 @@ sim
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/112/t.tio)
+

@@ -70,3 +70,7 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/079/t.tio)
+

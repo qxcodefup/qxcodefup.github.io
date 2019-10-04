@@ -80,3 +80,7 @@ a casa ta aberta
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/107/t.tio)
+

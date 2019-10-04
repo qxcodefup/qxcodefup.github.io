@@ -69,3 +69,7 @@ Você pode usar o operador de módulo para quebrar a parte da informação de vo
 
 ---
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/011/t.tio)
+

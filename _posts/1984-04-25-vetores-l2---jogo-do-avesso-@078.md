@@ -108,3 +108,7 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/078/t.tio)
+

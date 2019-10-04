@@ -67,3 +67,7 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/081/t.tio)
+

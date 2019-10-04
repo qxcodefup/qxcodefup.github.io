@@ -58,3 +58,7 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/130/t.tio)
+

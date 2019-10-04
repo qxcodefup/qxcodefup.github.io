@@ -60,3 +60,7 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/074/t.tio)
+

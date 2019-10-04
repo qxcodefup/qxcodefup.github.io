@@ -74,3 +74,7 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/088/t.tio)
+

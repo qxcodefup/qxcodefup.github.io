@@ -60,3 +60,7 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/076/t.tio)
+

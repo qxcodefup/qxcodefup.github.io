@@ -60,3 +60,7 @@ Não use uma função de ordenar pronta.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/084/t.tio)
+

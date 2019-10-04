@@ -56,3 +56,7 @@ else
     ...
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/183/t.tio)
+

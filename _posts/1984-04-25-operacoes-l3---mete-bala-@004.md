@@ -93,3 +93,7 @@ Para calcular a raiz quadrada você deverá importar a biblioteca math.h em seu 
 Para elevar ao quadrado você pode usar a função pow(x,2) que retorna x², ou fazer x * x. A função pow() também pertence à math.h.
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/t.tio)
+

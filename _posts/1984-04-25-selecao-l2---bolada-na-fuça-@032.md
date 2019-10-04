@@ -96,3 +96,7 @@ else
  fazer algo
 ```
 ---
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/032/t.tio)
+

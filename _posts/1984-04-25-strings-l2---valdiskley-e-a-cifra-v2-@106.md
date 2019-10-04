@@ -101,3 +101,7 @@ c
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/106/t.tio)
+

@@ -77,3 +77,7 @@ empate
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/030/t.tio)
+

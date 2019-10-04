@@ -54,3 +54,7 @@ Escreva um programa onde receba um vetor de tamanho 5 e que de como saída a som
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/060/t.tio)
+

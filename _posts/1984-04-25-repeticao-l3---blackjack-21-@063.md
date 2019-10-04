@@ -64,3 +64,7 @@ No vetor de inteiros mao, , os valores 1, 11, 12 e 13 são respectivamente Ás, 
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/063/t.tio)
+

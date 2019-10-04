@@ -76,3 +76,7 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/075/t.tio)
+

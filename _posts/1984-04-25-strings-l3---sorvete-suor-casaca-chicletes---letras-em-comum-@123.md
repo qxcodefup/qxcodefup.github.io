@@ -70,3 +70,7 @@ aaabbcc bbac bbbaacc ccbddbabda basdbdc
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/123/t.tio)
+

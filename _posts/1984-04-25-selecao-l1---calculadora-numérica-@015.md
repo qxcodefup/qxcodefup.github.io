@@ -57,3 +57,7 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/015/t.tio)
+

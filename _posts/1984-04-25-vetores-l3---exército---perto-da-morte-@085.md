@@ -44,3 +44,7 @@ Os soldados formaram uma fila no quartel. Essa fila está representada por um ve
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/085/t.tio)
+

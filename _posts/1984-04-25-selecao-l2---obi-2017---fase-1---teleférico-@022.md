@@ -57,3 +57,7 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/022/t.tio)
+

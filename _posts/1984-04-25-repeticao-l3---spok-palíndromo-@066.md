@@ -65,3 +65,7 @@ while num > 0:
     novo = novo * 10 + dig
 print(novo)
 ```
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/066/t.tio)
+

@@ -48,3 +48,7 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/139/t.tio)
+

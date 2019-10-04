@@ -120,3 +120,7 @@ leia angulo
    angulo = angulo % 360  # para retirar os loops  
    se angulo < 0  
       angulo = angulo + 360 # para consertar os números negativos
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/t.tio)
+

@@ -87,3 +87,7 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/008/t.tio)
+

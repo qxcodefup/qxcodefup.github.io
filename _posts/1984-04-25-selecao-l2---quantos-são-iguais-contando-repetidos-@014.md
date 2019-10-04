@@ -57,3 +57,7 @@ Leia três valores do usuário e imprima quantos são iguais.
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/014/t.tio)
+

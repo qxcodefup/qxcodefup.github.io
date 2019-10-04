@@ -71,3 +71,7 @@ a abc aabca
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/124/t.tio)
+

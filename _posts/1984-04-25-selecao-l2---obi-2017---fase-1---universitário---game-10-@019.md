@@ -65,3 +65,7 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/019/t.tio)
+

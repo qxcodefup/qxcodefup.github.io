@@ -79,3 +79,7 @@ se o terceiro valor lido for maior que vmaior
 
 ```
 ---
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/017/t.tio)
+

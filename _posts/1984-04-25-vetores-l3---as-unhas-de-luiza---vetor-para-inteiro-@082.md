@@ -74,3 +74,7 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/082/t.tio)
+

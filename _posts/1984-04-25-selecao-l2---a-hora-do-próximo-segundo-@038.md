@@ -70,3 +70,7 @@ print'%02d'% valor # python
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/038/t.tio)
+

@@ -66,3 +66,7 @@ orvalhouviuniformementeuivei
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/099/t.tio)
+

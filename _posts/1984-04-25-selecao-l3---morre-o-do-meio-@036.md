@@ -79,3 +79,7 @@ Receba três valores e imprima o valor do meio.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/036/t.tio)
+

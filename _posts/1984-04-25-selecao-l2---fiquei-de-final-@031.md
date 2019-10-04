@@ -78,3 +78,7 @@ reprovado na final
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/031/t.tio)
+

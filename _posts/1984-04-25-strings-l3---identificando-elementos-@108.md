@@ -79,3 +79,7 @@ str int float
 int int float str
 <<<<<<<<
 -->
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/108/t.tio)
+

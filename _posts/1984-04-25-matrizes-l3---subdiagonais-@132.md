@@ -64,3 +64,7 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 -12
 <<<<<<<<
 ```
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/132/t.tio)
+

@@ -79,3 +79,7 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/115/t.tio)
+

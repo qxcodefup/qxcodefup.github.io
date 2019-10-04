@@ -101,3 +101,7 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/071/t.tio)
+

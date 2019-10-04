@@ -76,3 +76,7 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/158/t.tio)
+

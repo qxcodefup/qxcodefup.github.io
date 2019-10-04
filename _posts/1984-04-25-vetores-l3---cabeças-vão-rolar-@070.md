@@ -69,3 +69,7 @@ Dica: Não faça isso em casa.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/070/t.tio)
+

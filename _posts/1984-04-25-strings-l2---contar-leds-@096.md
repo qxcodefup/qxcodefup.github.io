@@ -80,3 +80,7 @@ Agradecimentos a Cassio F.
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/t.tio)
+

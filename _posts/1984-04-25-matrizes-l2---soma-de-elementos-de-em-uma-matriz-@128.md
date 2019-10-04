@@ -55,3 +55,7 @@ Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/128/t.tio)
+

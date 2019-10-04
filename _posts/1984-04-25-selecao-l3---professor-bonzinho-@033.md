@@ -55,3 +55,7 @@ Final com 6.0
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/033/t.tio)
+

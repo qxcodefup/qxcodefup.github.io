@@ -61,3 +61,7 @@ Gabriel inventou um código para representar números naturais, usando uma sequ�
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/154/t.tio)
+

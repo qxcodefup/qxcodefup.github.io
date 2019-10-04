@@ -73,3 +73,7 @@ primeiro
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/039/t.tio)
+

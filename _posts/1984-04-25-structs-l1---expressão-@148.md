@@ -43,3 +43,7 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/148/t.tio)
+

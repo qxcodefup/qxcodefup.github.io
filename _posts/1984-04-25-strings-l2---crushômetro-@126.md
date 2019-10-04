@@ -89,3 +89,7 @@ As chances do crush te dar bola sao: 0%!
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/126/t.tio)
+

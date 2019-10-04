@@ -55,3 +55,7 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/056/t.tio)
+

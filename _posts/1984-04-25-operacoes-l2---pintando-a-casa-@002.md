@@ -52,3 +52,7 @@ Utilize a seguinte fórmula para calcular a área de um triângulo a partir do t
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/002/t.tio)
+

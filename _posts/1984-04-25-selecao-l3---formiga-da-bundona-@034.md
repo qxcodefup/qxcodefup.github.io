@@ -66,3 +66,7 @@ A
 * O resto da divisão por 6 equivale aos minutos. Pegue o resto da divisão e multiplique por 10. 
 * Pronto. Para imprimir, utilize o "%02d" no printf para forçar escrever com duas casas decimais incluindo zeros a esquerda se preciso for.
 ---
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/034/t.tio)
+

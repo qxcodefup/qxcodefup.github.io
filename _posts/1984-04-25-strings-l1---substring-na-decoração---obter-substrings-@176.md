@@ -72,3 +72,7 @@ r Ranger
 * Faca um laço que percorra os caracteres que você precisa da palavra e adicione na String resposta.
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/176/t.tio)
+

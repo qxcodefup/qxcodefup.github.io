@@ -68,3 +68,7 @@ Vários competidores disputaram uma competição interessante. Eles tinham duas 
 
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/051/t.tio)
+

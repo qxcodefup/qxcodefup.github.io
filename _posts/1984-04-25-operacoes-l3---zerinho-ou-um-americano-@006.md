@@ -67,3 +67,7 @@ jog4
 ```
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/006/t.tio)
+

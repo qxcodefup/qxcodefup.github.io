@@ -92,3 +92,7 @@ Super Fa
 Autor: Bruno Góes
 
 ---
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/029/t.tio)
+

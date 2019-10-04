@@ -63,3 +63,7 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/073/t.tio)
+

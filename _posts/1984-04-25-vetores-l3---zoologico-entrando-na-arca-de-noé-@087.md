@@ -52,3 +52,7 @@ O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acon
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/087/t.tio)
+

@@ -56,3 +56,7 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/055/t.tio)
+

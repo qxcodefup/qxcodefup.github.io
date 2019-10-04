@@ -60,3 +60,7 @@ Dois amigos, Alice e Bob, estão jogando um jogo muito simples, em que um deles 
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/156/t.tio)
+

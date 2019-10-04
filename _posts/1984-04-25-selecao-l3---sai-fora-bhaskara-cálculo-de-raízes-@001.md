@@ -82,3 +82,7 @@ int main(){
 }
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/001/t.tio)
+

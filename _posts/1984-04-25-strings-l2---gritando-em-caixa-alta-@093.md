@@ -61,3 +61,7 @@ pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/093/t.tio)
+

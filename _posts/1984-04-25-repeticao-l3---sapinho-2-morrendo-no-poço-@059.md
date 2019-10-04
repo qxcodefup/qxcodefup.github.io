@@ -115,3 +115,7 @@ para mostrar os saltos do sapo até a saída.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/059/t.tio)
+

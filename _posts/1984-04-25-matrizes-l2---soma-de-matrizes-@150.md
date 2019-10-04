@@ -56,3 +56,7 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/150/t.tio)
+

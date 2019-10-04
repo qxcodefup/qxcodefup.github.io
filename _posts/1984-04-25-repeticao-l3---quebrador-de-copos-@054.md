@@ -57,3 +57,7 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/054/t.tio)
+

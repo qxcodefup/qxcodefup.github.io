@@ -69,3 +69,7 @@ o pATO E O FRANGO JA TAO COZIDOS, COMAM!
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/114/t.tio)
+

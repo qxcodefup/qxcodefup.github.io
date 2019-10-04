@@ -70,3 +70,7 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/049/t.tio)
+

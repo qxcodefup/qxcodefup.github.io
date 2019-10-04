@@ -66,3 +66,7 @@ Um vetor ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/
 Para todo elemento na posição **\[** **i \] **temos que ele é menor que o elemento na posição posterior** \[** **i +1\]** . Ou seja, caso um elemento na posição **\[ i \]** seja maior que seu vizinho da frente ( posição **\[** **i +1\]** ) o vetor não é ordenado.
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/t.tio)
+

@@ -64,3 +64,7 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 [10, 10, 2, 2, J, A]
 <<<<<<<<
 ```
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/101/t.tio)
+

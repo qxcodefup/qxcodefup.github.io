@@ -68,3 +68,7 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/052/t.tio)
+

@@ -78,3 +78,7 @@ b
 z
 <<<<<<<<
 ```
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/174/t.tio)
+

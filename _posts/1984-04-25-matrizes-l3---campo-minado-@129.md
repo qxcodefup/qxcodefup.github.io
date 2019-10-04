@@ -122,3 +122,7 @@ Se ainda tiver dúvidas de como funciona, tente jogar um pouco.
 https://minesweeper.online/pt/new-game
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/129/t.tio)
+

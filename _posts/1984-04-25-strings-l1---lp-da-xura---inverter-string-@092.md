@@ -57,3 +57,7 @@ marquei um x no seu coracao
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/092/t.tio)
+

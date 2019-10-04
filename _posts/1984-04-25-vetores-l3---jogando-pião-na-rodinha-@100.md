@@ -76,3 +76,7 @@ nenhum
 
 
 * baitinga: modo carinhoso que um cearense chama o outro quando está invocado!
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/100/t.tio)
+

@@ -64,3 +64,7 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/058/t.tio)
+

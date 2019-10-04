@@ -49,3 +49,7 @@ G M P
 <<<<<<<<
 ```
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/042/t.tio)
+

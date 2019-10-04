@@ -74,3 +74,7 @@ Você deverá:
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/144/t.tio)
+

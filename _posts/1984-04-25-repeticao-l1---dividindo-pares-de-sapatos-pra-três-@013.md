@@ -64,3 +64,7 @@ invalido
 Um número é par se o resto da divisão por 2 é zero e é divisível por 3 se o resto da divisão por 3 é zero.
 
 
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/013/t.tio)
+

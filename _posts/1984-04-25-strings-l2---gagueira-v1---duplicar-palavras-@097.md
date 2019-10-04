@@ -60,3 +60,7 @@ sim sim eu eu vou vou
 ```
 
 #
+
+## Tests
+[DONWLOAD](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/097/t.tio)
+
