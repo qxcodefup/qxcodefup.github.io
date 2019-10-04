@@ -1,7 +1,7 @@
 [](../../1_fup/arcade/base/003/Readme.md) : ## ©operacoes L2 - Opala bebedor                                    : Cálculo de desempenho
 [](../../1_fup/arcade/base/006/Readme.md) : ## ©operacoes L3 - Zerinho ou um americano                          : Calcule o vencedor
 [](../../1_fup/arcade/base/000/Readme.md) : ## ©operacoes L1 - Operações básicas                                : Imprimindo float formatado
-[](../../1_fup/arcade/base/002/Readme.md) : ## ©operacoes L2 - Pintando a casa                                  : Calculando a área do triângulo
+[](../../1_fup/arcade/base/002/Readme.md) : ## ©operacoes L2 - Pintando a casa                                  : #### Calculando a área do triângulo
 [](../../1_fup/arcade/base/011/Readme.md) : ## ©operacoes L1 - Formatando data                                  : #### Imprimindo inteiros com duas casas e arredondando com operador de módulo
 [](../../1_fup/arcade/base/005/Readme.md) : ## ©operacoes L3 - Ladrão de Goiabas                                : Contando viagens usando módulo
 [](../../1_fup/arcade/base/004/Readme.md) : ## ©operacoes L3 - Mete bala                                        : Distância entre dois pontos
