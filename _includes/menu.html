@@ -1,6 +1,7 @@
 <aside class="sidebar" id="sidebar">
     <nav id="navigation">
       <h2>Categorias</h2>
+      <!--
       {% for page in site.pages %}
         {% if page.layout == "category" %}
         <li>
@@ -8,6 +9,20 @@
         </li>
         {% endif %}
       {% endfor %}
+      -->
+      <!--BEGIN-->
+<li><a href="/category/operacoes">{{ "Operações" }}</a></li>
+<li><a href="/category/selecao">{{ "Seleção" }}</a></li>
+<li><a href="/category/repeticao">{{ "Repetição" }}</a></li>
+<li><a href="/category/vetores">{{ "Vetores" }}</a></li>
+<li><a href="/category/funcoes">{{ "Funções" }}</a></li>
+<li><a href="/category/ponteiros">{{ "Ponteiros" }}</a></li>
+<li><a href="/category/strings">{{ "Strings" }}</a></li>
+<li><a href="/category/matrizes">{{ "Matrizes" }}</a></li>
+<li><a href="/category/structs">{{ "Structs" }}</a></li>
+<li><a href="/category/recursao">{{ "Recursão" }}</a></li>
+
+	<!--END-->
       <h2>Menu</h2>
         {% include links.html %}
     </nav>
