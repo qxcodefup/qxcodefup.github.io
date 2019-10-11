@@ -15,7 +15,7 @@ category: matrizes
 
 ## Motivação
 
-Os soldados se colocaram em formação no quartel. Na formação eles formaram uma matriz 3x3.
+Os soldados se colocaram em formação no quartel. Na formação, eles formaram uma matriz 3x3.
 
 Cada soldado tem uma numeração na sua farda, logo o Comandante querendo tripudiar de você, mandou você contar quantas vezes um soldado com numeração de fardamento menor está atrás de um maior.
 
@@ -29,7 +29,9 @@ Faça um programa que conte quantos soldados com numeração de fardamento menor
 
 ### Entrada
 
-* Uma matriz 3x3 contendo os valores que representam os soldados.
+* Uma matriz de tamanho qualquer contendo os valores que representam os soldados.
+    * linha 1: nl e nc
+    * linhas seguintes a matriz
 
 Saída
 
@@ -39,6 +41,7 @@ Saída
 
 ```
 >>>>>>>>
+3 3
 2 4 6
 3 8 9
 1 0 5
@@ -47,6 +50,7 @@ Saída
 <<<<<<<<
 
 >>>>>>>>
+3 3
 5 1 9
 3 8 4
 7 3 2
@@ -55,12 +59,35 @@ Saída
 <<<<<<<<
 
 >>>>>>>>
+3 3
 6 2 3
 5 4 9
 1 8 7
 ========
 3
 <<<<<<<<
+
+>>>>>>>>
+4 4
+6 2 3 5
+5 4 9 4
+1 8 7 3
+1 8 9 2
+========
+6
+<<<<<<<<
+
+>>>>>>>>
+5 4
+6 2 3 5
+5 4 9 4
+1 8 7 3
+1 8 9 2
+0 7 9 1
+========
+9
+<<<<<<<<
+
 ```
 
 ## Tests
